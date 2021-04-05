@@ -1,7 +1,7 @@
 # Alfred Slack Status manager
 Quickly set your status (and do-not-disturb settings) from Alfred
 
-<img width="623" alt="Screenshot of example usage" src="https://user-images.githubusercontent.com/3035506/113224934-5a460580-9241-11eb-99b2-86d78e512363.png">
+<img width="623" alt="Screenshot of example usage" src="https://user-images.githubusercontent.com/385726/113608480-7bbb3e80-95ff-11eb-9430-b05ebed1c2b0.png" />
 
 ## Setup
 
